@@ -1,12 +1,16 @@
 <h1 align="center">Connor East</h1>
-<h3 align="center">CS Student | Web-Developer | Malware-Analyst</h3>
+<h3 align="center">Champlain CS Student | Web-Developer | Malware-Analyst</h3>
 
 - 🔭 I’m currently working on Active Directory Attacks
 
 - 🌱 I’m currently learning Networking, Privilege Escalation, Mimikatz
+<hr>
 
-- ⚡ Fun fact **g**
+<h3>[Spring 2024 -- Semester 1](https://github.com/ConnorEast/Tech-Journal/wiki/Spring-2024-%E2%80%90-Champlain)</h2>
 
+<hr>
+<br>
+<br>
 <article styles="display-flex; flex-direction:column;">
 <h3 align="left">Web Development</h3>
 <p align="left"> 
