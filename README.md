@@ -1,17 +1,12 @@
-<h1 align="center">Hi 👋, I'm Connor East</h1>
+<h1 align="center">Connor East</h1>
 <h3 align="center">CS Student | Web-Developer | Malware-Analyst</h3>
 
-- 🔭 I’m currently working on [g](g)
+- 🔭 I’m currently working on Active Directory Attacks
 
-- 🌱 I’m currently learning **g**
-
-- 📫 How to reach me **g**
+- 🌱 I’m currently learning Networking, Privilege Escalation, Mimikatz
 
 - ⚡ Fun fact **g**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <article styles="display-flex; flex-direction:column;">
 <h3 align="left">Web Development</h3>
 <p align="left"> 
@@ -21,15 +16,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
-<br>
+ 
 <h3 align="left"> Coding </h3>
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-
 </p>
+ 
 <h3 align="left">Artistic Tools</h3>
 <p align="left">
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a> 
@@ -42,6 +36,6 @@
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-
+</p>
 
 </article>
