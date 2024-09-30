@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning Networking, Privilege Escalation, Mimikatz
 <hr>
 
-[Spring 2024 -- Semester 1](https://github.com/ConnorEast/Tech-Journal/wiki/Spring-2024-%E2%80%90-Champlain)
+[Spring 2024 -- Semester 1](https://github.com/ConnorEast/Tech-Journal/wiki/Spring-2024-%E2%80%90-Champlain)  
+[Fall 2024 -- Semester 2](https://github.com/ConnorEast/Tech-Journal/wiki/Fall-2024)  
 
 
 <hr>
