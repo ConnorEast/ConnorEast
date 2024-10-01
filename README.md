@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Active Directory Attacks
 
-- 🌱 I’m currently learning Networking, Privilege Escalation, Mimikatz
+- 🌱 I’m currently learning Networking, Privilege Escalation, Mimikatz, et;all.
 <hr>
 
 [Spring 2024 -- Semester 1](https://github.com/ConnorEast/Tech-Journal/wiki/Spring-2024-%E2%80%90-Champlain)  
