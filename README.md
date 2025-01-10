@@ -8,7 +8,7 @@
 
 [Spring 2024 -- Semester 1](https://github.com/ConnorEast/Tech-Journal/wiki/Spring-2024-%E2%80%90-Champlain)  
 [Fall 2024 -- Semester 2](https://github.com/ConnorEast/Tech-Journal/wiki/Fall-2024)  
-[Spring 2025 -- Semester 3](ttps://github.com/ConnorEast/Tech-Journal/wiki/Spring-2025)  
+[Spring 2025 -- Semester 3](https://github.com/ConnorEast/Tech-Journal/wiki/Spring-2025)  
 
 <hr>
 <br>
