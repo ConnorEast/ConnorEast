@@ -1,5 +1,5 @@
 <h1 align="center">Connor East</h1>
-<h3 align="center">Champlain CS Student | Web-Developer | Malware-Analyst</h3>
+<h3 align="center">Champlain CS Student | Web-Developer | Malware-Analyst | Certified Drama Llama</h3>
 
 - 🔭 I’m currently working on Active Directory Attacks
 
